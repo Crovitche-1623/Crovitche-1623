@@ -1,10 +1,19 @@
 ### Thibault G. aka Crovitche
-I'm Thibault from Switzerland, Full-Stack developer and new technologies enthusiast. My favorite stack is Symfony for the Backend and VueJS for the Frontend.
+
+
+<a href="https://www.linkedin.com/in/thibaultginfo/" target="_blank">
+    <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br>
+<br>
+
+I'm Thibault from Switzerland, Full-Stack developer and new technologies enthusiast. My favorite stack is Symfony for the Backend and VueJS for the         Frontend.
 
 Actually :
 - 🔭 I’m currently working on personal projects and at [Rolling SA](https://rolling.company/).
 - 🌱 I’m currently learning Pimcore.
-- 📫 How to reach me: email only (contact@thibaultg.info)
+- 📫 How to reach me: email / LinkedIn only (contact@thibaultg.info)
 - ⚡ Fun fact: I like listening to rock and metal music and lifting weights.
 
 ### Programming languages
