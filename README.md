@@ -11,8 +11,7 @@
 I'm Thibault from Switzerland, Full-Stack developer and new technologies enthusiast. My favorite stack is Symfony for the Backend and VueJS for the         Frontend.
 
 Actually :
-- 🔭 I’m currently working on personal projects and at [Rolling SA](https://rolling.company/).
-- 🌱 I’m currently learning Pimcore.
+- 🔭 I’m currently working on personal projects and I'm doing my mandatory military service in Switzerland.
 - 📫 How to reach me: email / LinkedIn only (contact@thibaultg.info)
 - ⚡ Fun fact: I like listening to rock and metal music and lifting weights.
 
