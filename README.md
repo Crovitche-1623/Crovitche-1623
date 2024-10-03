@@ -11,9 +11,9 @@
 I'm Thibault from Switzerland, Full-Stack developer and new technologies enthusiast. My favorite stack is Symfony for the Backend and VueJS for the         Frontend.
 
 Actually :
-- 🔭 I’m currently working on personal projects and I'm doing my mandatory military service in Switzerland.
+- 🔭 I’m currently working at Predige SA
 - 📫 How to reach me: email / LinkedIn only (contact@thibaultg.info)
-- ⚡ Fun fact: I like listening to rock and metal music and lifting weights.
+- ⚡ Fun facts: I love rock and metal music and I like playing strategy video games and lifting weights in my free time
 
 ### Programming languages
 
