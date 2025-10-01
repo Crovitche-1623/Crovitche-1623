@@ -1,4 +1,4 @@
-### Thibault G. aka Crovitche
+### Thibault Gattolliat aka Crovitche
 
 
 <a href="https://www.linkedin.com/in/thibaultginfo/" target="_blank">
